@@ -15,7 +15,7 @@
 
 ## 1.1 Revisão do Modelo Conceitual
 
-### Caracterização da organização
+### Caracterização da organização.
 
 **Nome e natureza.** Namiê Brasil Ltda., empresa com fins lucrativos do segmento de moda feminina. Fabrica e vende roupas, principalmente jeans feminino, no atacado e no varejo. O cadastro público da empresa indica como atividade principal a confecção de peças do vestuário, e como secundárias o comércio atacadista e varejista de vestuário.
 
